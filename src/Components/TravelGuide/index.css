@@ -1,0 +1,31 @@
+.travel-guide-container {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.travel-heading {
+  color: #334155;
+  font-size: 29px;
+  padding-bottom: 9px;
+  border-bottom: 3px solid #52bbf0;
+}
+
+.travel-list-container {
+  width: 90%;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.loader-container {
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
